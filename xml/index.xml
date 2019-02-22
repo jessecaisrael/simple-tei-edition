@@ -18,7 +18,23 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+         <div type="poem">
+           <lg>
+             <l>A pair of spectacles afar just stir --</l>
+             <l>An almanac's aware.</l>
+             <l>Was it the mat winked,</l>
+             <l>Or a nervous star?</l>
+             <l>The moon slides down the stair</l>
+             <l>To see who's there.</l>
+           </lg>
+           <lg>
+             <l>There's plunder,--where?</l>
+             <l>Tankard, or spoon,</l>
+             <l>Earring, or stone,</l>
+             <l>A watch, some ancient brooch</l>
+             <l>To match the grandmamma,</l>
+           </lg>
+         </div>
       </body>
   </text>
 </TEI>
